@@ -16,3 +16,5 @@ coverage
 stuff
 build/*
 yarn-error.log
+.idea/
+.vscode/
