@@ -15,6 +15,7 @@ coverage
 .next
 stuff
 build/*
+bundles/
 yarn-error.log
 .idea/
 .vscode/
